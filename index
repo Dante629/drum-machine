@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Drum Machine</title>
+  <link rel="stylesheet" href="./style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+</head>
+<body>
+<div id="root"></div>
+<script src='https://unpkg.com/react@16/umd/react.development.js'></script>
+<script src='https://unpkg.com/react-dom@16/umd/react-dom.development.js'></script>
+<script  src="./script.js"></script>
+</body>
+</html>
